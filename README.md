@@ -44,7 +44,7 @@
 <div align="center" id="installation">
     <H3>Installation 💾</H3>
 
-
+<div align="left">
 <H6>Install from source</H6>
 
 
@@ -55,10 +55,7 @@ and change anything you want
 ```
 
 </div>
-
+</div>
 <hr>
 
 
-
-</div>
-</div>
