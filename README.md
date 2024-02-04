@@ -38,7 +38,7 @@
 
 <div align="center" id="preview">
     <H3>Preview 📸</H3>
-    <img src="image/preview.png" style="" alt="preview">
+    <img src="image/preview.jpg" style="" alt="preview">
 </div>
 <hr>
 <div align="center" id="installation">
