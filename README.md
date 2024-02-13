@@ -1,7 +1,7 @@
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/majvax/pyoverlay/master/image/project.gif" style="border-radius: 50%; width: 100px; height: 100px" alt="logo">
-    <H3>PyOverlay</H3>
+    <H3>dx9 imgui template </H3>
     <p> 
         <a href="https://github.com/majvax/dx9-imgui-template/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/majvax/dx9-imgui-template?style=for-the-badge&labelColor=363a4f&color=b7bdf8"></a>
         <a href="https://github.com/majvax/dx9-imgui-template/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/majvax/dx9-imgui-template?style=for-the-badge&labelColor=363a4f&color=f5a97f"></a>
